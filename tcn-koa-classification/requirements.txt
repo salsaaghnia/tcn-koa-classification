@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.1.4
+scipy
+scikit-learn
+matplotlib
+seaborn
+mediapipe==0.10.14
+tensorflow>=2.12.0
+focal-loss
+streamlit
