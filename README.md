@@ -45,8 +45,8 @@ knee-oa-tcn-classification/
 ⚙️ How to Run the Experiments
 1. Clone the repository:
 ```text
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/salsaaghnia/tcn-koa-classification.git](https://github.com/salsaaghnia/tcn-koa-classification.git)
+cd tcn-koa-classification
 ```
 2. Install dependencies:
 ```text
